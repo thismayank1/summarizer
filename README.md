@@ -14,7 +14,6 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 - <a href="https://summarizze.streamlit.app/">Click for Live Demo</a>
 <!-- - <a href="https://www.canva.com/design/DAFiomy01y0/c-0xFFUA2sYer-fgyocu9g/view">Click for Presentation</a>-->
 <!-- - <a href="https://docs.google.com/document/d/e/2PACX-1vQTKY3eI-kxC6N_Qj9QNt9AmdMPflHL3Qa8MvX75166BxBEKX-Muz3liu6_z0BBhrGJsl_ysDUY0gm2/pub">Click for Report</a> -->
-- <a href="#Documentations">Click for Documentation</a>
 
 
 # Pre-requisites
@@ -33,6 +32,5 @@ My Streamlit app allows us to process both raw text and PDF files to get a summa
 
 # Documentations
 
-* <a href="https://www.researchgate.net/profile/N-Moratanch/publication/305912913_A_survey_on_abstractive_text_summarization/links/5a0170faa6fdcc82a3185136/A-survey-on-abstractive-text-summarization.pdf">Abstractive Text Summarization</a>
 * <a href="https://neuml.github.io/txtai/">txtai</a>
 * <a href="https://docs.streamlit.io/">Streamlit</a>
